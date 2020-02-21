@@ -1,0 +1,5 @@
+﻿  WindowsProject3.cpp
+c:\users\kolya\source\repos\windowsproject3\windowsproject3\windowsproject3.cpp(120): warning C4101: ps: неиспользованная локальная переменная
+c:\users\kolya\source\repos\windowsproject3\windowsproject3\windowsproject3.cpp(119): warning C4101: hDC: неиспользованная локальная переменная
+c:\users\kolya\source\repos\windowsproject3\windowsproject3\windowsproject3.cpp(121): warning C4101: rect: неиспользованная локальная переменная
+  WindowsProject3.vcxproj -> C:\Users\kolya\source\repos\WindowsProject3\Debug\WindowsProject3.exe
