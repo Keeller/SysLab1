@@ -1,2 +1,4 @@
 ﻿  WindowsProject3.cpp
+c:\users\kolya\source\repos\windowsproject3\windowsproject3\windowsproject3.cpp(222): warning C4101: i: неиспользованная локальная переменная
+c:\users\kolya\source\repos\windowsproject3\windowsproject3\windowsproject3.cpp(249): warning C4101: buffert: неиспользованная локальная переменная
   WindowsProject3.vcxproj -> C:\Users\kolya\source\repos\WindowsProject3\Debug\WindowsProject3.exe
